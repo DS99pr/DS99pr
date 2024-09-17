@@ -1,0 +1,7 @@
+- 👋 Hi, I’m **DS99**
+- 👀 I’m interested in **Kotlin**
+- 🌱 I’m currently learning **Kotlin**, **JS React**
+- 💞️ I’m looking to collaborate with no one
+- 📫 How to reach me: discord nickname: \_\_ds99\_\_
+- 😄 Pronouns: **he**/**him**
+- ⚡ Fun fact: idk
