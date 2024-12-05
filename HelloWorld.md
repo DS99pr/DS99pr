@@ -1,7 +1,0 @@
-- 👋 Hi, I’m **DS99**
-- 👀 I’m interested in **C++**
-- 🌱 I’m currently learning **C++**
-- 💞️ I’m looking to collaborate with no one,
-- 📫 How to reach me: \_\_ds99\_\_ (Discord)
-- 😄 Pronouns: **he/him**
-- 💥 Birth date: 20 August.
