@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @DS99pr
-- 👀 I’m interested in: C#
-- 🌱 I’m currently learning: C++
-- 📫 How to reach me: **\_\_ds99\_\_** in Discord
-- 😄 Pronouns: he/him
+- hi, I’m **ds**
+- i’m interested in: C#
+- i’m currently learning: C#
+- how to reach me: **.dssss.** on Discord
+- pronouns: he/him
